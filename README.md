@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Juan Manuel 👋</h1>
+<h1 align="center">Hi, I'm Juan Manuel </h1>
 
 <p align="center">
   Computer Systems Engineering student focused on software development, developer tools and game development.
@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Computer Systems Engineering student interested in building useful software and understanding how things work under the hood.
 
