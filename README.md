@@ -27,7 +27,7 @@ I enjoy learning by creating real projects, experimenting with ideas and documen
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 Currently working on and learning about:
 
@@ -40,7 +40,7 @@ Currently working on and learning about:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -50,7 +50,7 @@ Currently working on and learning about:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&theme=transparent" />
@@ -63,7 +63,7 @@ Currently working on and learning about:
 
 ---
 
-## 🔨 What I'm Building
+## What I'm Building
 
 I'm currently turning experiments and university projects into more complete and documented software.
 
@@ -73,7 +73,7 @@ More projects will be published here as they are ready.
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 ```text
 Software Engineering
@@ -98,7 +98,7 @@ Web Development
 
 ---
 
-## 🎯 Goals
+## Goals
 
 * Build a strong software development portfolio
 * Publish useful open-source projects
